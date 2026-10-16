@@ -6,7 +6,7 @@
 
 **Durum:** Çalıştırılabilir yerel temel sürüm (v0.1). E-posta/SMS simülasyonu · yerel teslim günlüğü.
 
-## Kurulum
+## Proje Kurulumu
 
 Node.js 24.x ve npm gerekir. İlk kurulumda npm paketlerini indirmek için internet bağlantısı gerekir. Node 24 `node:sqlite` deneysel uyarısı yazabilir; bu uyarı tek başına hata değildir.
 
